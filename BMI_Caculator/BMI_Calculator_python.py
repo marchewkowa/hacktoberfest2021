@@ -27,3 +27,4 @@ bmi_category = calculate_bmi_category(bmi)
 print("Your BMI is %.2f and you are %s" % (bmi, bmi_category))
 
 
+
